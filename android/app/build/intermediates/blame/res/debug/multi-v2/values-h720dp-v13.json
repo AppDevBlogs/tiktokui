@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/saurabh/Desktop/PROJECT/tiktok/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/saurabh/.gradle/caches/transforms-2/files-2.1/0109b259f125add1bb2a2179bd6fcdf9/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
